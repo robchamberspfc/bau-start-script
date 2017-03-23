@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 workingDir=$(pwd)
-osascript baureset.scpt "$workingDir"
+osascript reset.scpt "$workingDir"
